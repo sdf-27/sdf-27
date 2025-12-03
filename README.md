@@ -1,13 +1,5 @@
 # Hi, I'm Lakshay Hooda 👋
 
-<a href="https://github.com/sdf-27">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdf-27&layout=compact&theme=vision-friendly-dark" />
-</a>
-
-<a href="https://github.com/sdf-27">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sdf-27&show_icons=true&theme=vision-friendly-dark" />
-</a>
-
 <br/>
 
 I'm a passionate developer with a focus on web development and a love for solving problems with code. I'm always eager to learn new technologies and apply my skills to impactful projects. Currently, I am seeking new opportunities to contribute and grow.
